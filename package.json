@@ -1,0 +1,17 @@
+{
+  "name": "time-tracking-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard to keep track of daily, weekly, monthly activities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leesoli/time-tracking-dashboard/issues"
+  },
+  "homepage": "https://github.com/leesoli/time-tracking-dashboard#readme"
+}
