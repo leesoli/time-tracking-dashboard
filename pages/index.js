@@ -10,7 +10,7 @@ export default function HomePage() {
   }
 
   return(
-    <div className="flex flex-col">
+    <div className="flex flex-col bg-[#0f1424] h-screen py-12 items-center">
       <UserInfo time={time} handleClick={handleClick}/>
       <TaskInfo time={time}/>
     </div>
